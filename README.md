@@ -1,2 +1,3 @@
 # first-project
-This is my first github repository
+This is my first github repository.
+Author - Vanshika Singh
